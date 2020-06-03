@@ -1,0 +1,7 @@
+LIBRARY	"mt5-mssql.dll"
+EXPORTS
+MsSqlConnect
+MsSqlQuery
+MsSqlDisconnect
+MsSqlFetch
+MsSqlGet
